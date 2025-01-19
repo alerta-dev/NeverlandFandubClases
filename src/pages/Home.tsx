@@ -15,7 +15,7 @@ const Home = () => {
           Bienvenido a Academia Online
         </h1>
         <p className="text-xl text-gray-600 mb-8">
-          Aprende con los mejores profesores en un ambiente virtual dinámico
+          Somos un grupo de fans que queríamos aportar para que aprendan mas cosas, si no sabes como empezar, es una buena idea comenzar por aqui!
         </p>
       </motion.div>
 
