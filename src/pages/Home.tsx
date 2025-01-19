@@ -27,7 +27,7 @@ const Home = () => {
           className="rounded-lg overflow-hidden shadow-lg"
         >
           <img
-            src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+            src="https://64.media.tumblr.com/371cc0d6eb40decf430b11eaf01730e0/9adfa145971981e0-24/s1280x1920/f84d7a54ebfee729e0581e7fc7a50f0a00ce59cc.pnj"
             alt="Online Learning"
             className="w-full h-64 object-cover"
           />
