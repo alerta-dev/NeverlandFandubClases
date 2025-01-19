@@ -43,7 +43,7 @@ const Home = () => {
             ¿Por qué elegirnos?
           </h2>
           <ul className="space-y-4 text-gray-600">
-            <li>✓ Clases en vivo con profesores expertos</li>
+            <li>✓ Clases en vivo con diversos profesores</li>
             <li>✓ Comunidad activa de estudiantes</li>
             <li>✓ Flexibilidad horaria</li>
             <li>✓ Soporte personalizado</li>
